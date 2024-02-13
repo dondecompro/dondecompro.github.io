@@ -10,6 +10,9 @@ MIT
 @angular/platform-browser
 MIT
 
+@angular/router
+MIT
+
 leaflet
 BSD-2-Clause
 BSD 2-Clause License
